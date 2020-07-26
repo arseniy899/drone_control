@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#64DD17</color>
+    <color name="colorPrimaryDark">#1FAA00</color>
+    <color name="colorAccent">#9cff57</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="primaryColor">#64dd17</color>
+    <color name="primaryLightColor">#9cff57</color>
+    <color name="primaryDarkColor">#1faa00</color>
+    <color name="secondaryColor">#689f38</color>
+    <color name="secondaryLightColor">#99d066</color>
+    <color name="secondaryDarkColor">#387002</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+</resources>
