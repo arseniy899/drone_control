@@ -8,7 +8,7 @@ To emulate drone WebSocket-server, you can use python-script, located in folder 
 
 # To do
 - [ ] Tests coverage
-- [ ] Docs
+- [x] Docs (JavaDoc)
 
 
 ![ScreenShot of the main screen](https://raw.githubusercontent.com/arseniy899/drone_control/master/screenshots/screen_main_connected.png)
